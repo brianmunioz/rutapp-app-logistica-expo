@@ -16,13 +16,7 @@ Si te interesa implementar tener esta app en tu empresa no dudes en hablarme a m
 
 
 ## Video demostración
-
-[Ver demo](documentacion/video/demo.mp4)
-
-
-
-
-
+<video src="documentacion/video/demo.mp4" width="320" height="240" controls></video>
 
 ## Requerimientos
 
