@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "MyApp",
+    "slug": "myapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E4F6E7"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.myapp"
+    },
+    "android": {
+      "package": "com.example.myapp",
+      "versionCode": 1,
+      "immersive": false,
+      "androidStatusBar": {
+        "backgroundColor": "#FFFCF0",
+        "barStyle": "light",
+        "translucent": true,
+        "visible": true
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E4F6E7"
+      },
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "plugins": [
+      "expo-asset",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow MyApp to access your location."
+        }
+      ]
+    ],
+    "extra": {},
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/your-project-id"
+    }
+  }
+}
