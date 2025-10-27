@@ -17,7 +17,7 @@ Si te interesa implementar tener esta app en tu empresa no dudes en hablarme a m
 
 ## Video demostración
 
-[Ver demo](documentacion/videos/demo.mp4)
+[Ver demo](documentacion/video/demo.mp4)
 
 
 
