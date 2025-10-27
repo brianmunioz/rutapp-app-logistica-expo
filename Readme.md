@@ -16,7 +16,9 @@ Si te interesa implementar tener esta app en tu empresa no dudes en hablarme a m
 
 
 ## Video demostración
-<video src="documentacion/video/demo.mp4" width="320" height="240" controls></video>
+
+https://github.com/user-attachments/assets/efb129a4-b0b6-478f-877f-134f58ae5724
+
 
 ## Requerimientos
 
