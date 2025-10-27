@@ -10,10 +10,8 @@ Si te interesa implementar tener esta app en tu empresa no dudes en hablarme a m
 
 
 ## Screenshots
-
-![Rutapp captura 1](documentacion/screenshots/1.webp)
-![Rutapp captura 2](documentacion/screenshots/2.webp)
-
+![1](https://github.com/user-attachments/assets/58473e9b-0ed1-4512-aaa3-d17fa44441d0)
+![2](https://github.com/user-attachments/assets/363c392c-f733-4a91-a11b-f6d1e13de9b8)
 
 ## Video demostración
 
